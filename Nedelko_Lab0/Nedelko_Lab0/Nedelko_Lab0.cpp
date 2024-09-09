@@ -2,9 +2,14 @@
 //
 
 #include <iostream>
+using namespace std;
 
 int main()
 {
+	char s;
+	cout << "Hello, World! \n";
+	cout << "Insert a symbol: ";
+	cin >> s;
 }
 
 // Запуск программы: CTRL+F5 или меню "Отладка" > "Запуск без отладки"
