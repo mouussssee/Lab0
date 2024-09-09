@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mary_\\OneDrive\\Documenten\\GitHub\\Lab0\\Nedelko_Lab0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F787F12F-DE0B-495F-961B-848A32DEBA60}|Nedelko_Lab0\\Nedelko_Lab0.vcxproj|C:\\Users\\mary_\\OneDrive\\Documenten\\GitHub\\Lab0\\Nedelko_Lab0\\Nedelko_Lab0\\Nedelko_Lab0.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F787F12F-DE0B-495F-961B-848A32DEBA60}|Nedelko_Lab0\\Nedelko_Lab0.vcxproj|solutionrelative:Nedelko_Lab0\\Nedelko_Lab0.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Nedelko_Lab0.cpp",
+              "DocumentMoniker": "C:\\Users\\mary_\\OneDrive\\Documenten\\GitHub\\Lab0\\Nedelko_Lab0\\Nedelko_Lab0\\Nedelko_Lab0.cpp",
+              "RelativeDocumentMoniker": "Nedelko_Lab0\\Nedelko_Lab0.cpp",
+              "ToolTip": "C:\\Users\\mary_\\OneDrive\\Documenten\\GitHub\\Lab0\\Nedelko_Lab0\\Nedelko_Lab0\\Nedelko_Lab0.cpp",
+              "RelativeToolTip": "Nedelko_Lab0\\Nedelko_Lab0.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-09T23:14:13.619Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
